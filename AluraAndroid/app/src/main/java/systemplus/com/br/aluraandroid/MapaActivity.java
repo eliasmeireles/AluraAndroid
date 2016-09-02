@@ -40,8 +40,10 @@ public class MapaActivity extends AppCompatActivity {
     public void onRequestPermissionsResult(int requestCode, @NonNull String[] permissions, @NonNull int[] grantResults) {
         if (requestCode == REQUEST_PERMISSOES) {
             if (grantResults[0] == PackageManager.PERMISSION_GRANTED &&
-                    grantResults[1] == PackageManager.PERMISSION_GRANTED);
-            new Localizador(this, mapaFragment);
+                    grantResults[1] == PackageManager.PERMISSION_GRANTED) {
+                new Localizador(this, mapaFragment);
+
+            }
         }
     }
 }

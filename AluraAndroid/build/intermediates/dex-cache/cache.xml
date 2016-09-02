@@ -1,2 +1,418 @@
 <?xml version="1.0" encoding="utf-8"?>
-<items version="2" />
+<items version="2" >
+
+    <item
+        jar="/home/elias/AndroidStudioProjects/AluraAndroid/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="e6e2251f3d3abf4eecd6bf6919d41fc7af497852">
+        <dex dex="/home/elias/AndroidStudioProjects/AluraAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-games-9.4.0_94babd35d93d448b6c9b9ee5e88fbc462de0b52d/classes.dex" />
+    </item>
+    <item
+        jar="/home/elias/AndroidStudioProjects/AluraAndroid/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-iid/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="59a16a4a42d25b2c243dd1e8aea87d06895b4a06">
+        <dex dex="/home/elias/AndroidStudioProjects/AluraAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-iid-9.4.0_788521c80978360a2633370e0f9e67bed5443524/classes.dex" />
+    </item>
+    <item
+        jar="/home/elias/AndroidStudioProjects/AluraAndroid/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="03829a2618892d438a1f59c6286699ca1f476e93">
+        <dex dex="/home/elias/AndroidStudioProjects/AluraAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-cast-framework-9.4.0_8295d7a96d9ae521dc417550dc54c5fc44eca80c/classes.dex" />
+    </item>
+    <item
+        jar="/home/elias/AndroidStudioProjects/AluraAndroid/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="96e33a7aaee00ab64270e2a9887b8f9ef32c8b73">
+        <dex dex="/home/elias/AndroidStudioProjects/AluraAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-cardview-v7-24.2.0_d9aaa8f736e3688d112453039a2f10c3ab474da4/classes.dex" />
+    </item>
+    <item
+        jar="/home/elias/AndroidStudioProjects/AluraAndroid/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="7bc6ea2bcfd6de4b7085e0f3a01616c5c8e0e2ad">
+        <dex dex="/home/elias/AndroidStudioProjects/AluraAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-safetynet-9.4.0_807abd4267007e979472a9ba81fc35a5af2d6740/classes.dex" />
+    </item>
+    <item
+        jar="/home/elias/AndroidStudioProjects/AluraAndroid/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="a440fb3fec30ff925e9f601cc458fb6671834cb2">
+        <dex dex="/home/elias/AndroidStudioProjects/AluraAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-impl-9.4.0_b973bf4932f2da5985f795f0f8577d535acbecd8/classes.dex" />
+    </item>
+    <item
+        jar="/home/elias/AndroidStudioProjects/AluraAndroid/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-clearcut/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="dd763e0269f2854f5828ae62dd968b80bff6a0db">
+        <dex dex="/home/elias/AndroidStudioProjects/AluraAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-clearcut-9.4.0_19001422eea8174b68efe6853121495ec16796f0/classes.dex" />
+    </item>
+    <item
+        jar="/home/elias/AndroidStudioProjects/AluraAndroid/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="d49118ba67a101c4895f0581f17142cba85b330b">
+        <dex dex="/home/elias/AndroidStudioProjects/AluraAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-panorama-9.4.0_e66b8324b088c2db6a9f336bdc50f06b920a0e6b/classes.dex" />
+    </item>
+    <item
+        jar="/home/elias/AndroidStudioProjects/AluraAndroid/app/build/intermediates/exploded-aar/com.google.firebase/firebase-storage/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="98e97da89d4df8e2f6eba63498d3d46a587372f2">
+        <dex dex="/home/elias/AndroidStudioProjects/AluraAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-storage-9.4.0_1d5036281d8235db79b1508909effe474bc46f0c/classes.dex" />
+    </item>
+    <item
+        jar="/home/elias/AndroidStudioProjects/AluraAndroid/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="d463d8eec1e6c1feef2cec6675ccb47e37c12ee1">
+        <dex dex="/home/elias/AndroidStudioProjects/AluraAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-ads-9.4.0_873beb7e4ba768b4f746dc2ea0ae7bbbdb240ba1/classes.dex" />
+    </item>
+    <item
+        jar="/home/elias/AndroidStudioProjects/AluraAndroid/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database-connection/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="0e4d53465cc141bec58f18a894e4c4e80633fa32">
+        <dex dex="/home/elias/AndroidStudioProjects/AluraAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-database-connection-9.4.0_0cf9b3770c53a7e04c099fb8075a6f263ce59496/classes.dex" />
+    </item>
+    <item
+        jar="/home/elias/AndroidStudioProjects/AluraAndroid/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="88848548ab56d4fbf3d2d1b0c85bf1ff9b4c1f4b">
+        <dex dex="/home/elias/AndroidStudioProjects/AluraAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-9.4.0_a6f01b90c35218ef75939bafe4d0c636aa8dfabd/classes.dex" />
+    </item>
+    <item
+        jar="/home/elias/AndroidStudioProjects/AluraAndroid/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="618485fef3ebe12127f7622abbc9b5b39057b5c2">
+        <dex dex="/home/elias/AndroidStudioProjects/AluraAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-9.4.0_ca3c2aec7486c244586f970abd59ba64d2b9c6d4/classes.dex" />
+    </item>
+    <item
+        jar="/home/elias/AndroidStudioProjects/AluraAndroid/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="5e04c0b3683ca45b343284d93e5594b5f9044551">
+        <dex dex="/home/elias/AndroidStudioProjects/AluraAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-identity-9.4.0_c5658a7710f6181f59bfaf803a0a3d42528c24cc/classes.dex" />
+    </item>
+    <item
+        jar="/home/elias/AndroidStudioProjects/AluraAndroid/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager-api/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="7ea53c4458b80e8ea71f7fd6831fa184c501377b">
+        <dex dex="/home/elias/AndroidStudioProjects/AluraAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tagmanager-api-9.4.0_3a45a3198bff70e9902dd96f932a4edb73e55719/classes.dex" />
+    </item>
+    <item
+        jar="/home/elias/AndroidStudioProjects/AluraAndroid/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="dd51b31890731591729f046d7a09c4fe4e483ed1">
+        <dex dex="/home/elias/AndroidStudioProjects/AluraAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-plus-9.4.0_eab3c72eb3bf25c08f8a71278e0c71a855426570/classes.dex" />
+    </item>
+    <item
+        jar="/home/elias/AndroidStudioProjects/AluraAndroid/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="4348dd26d83b56c2058b768222c3271bce911724">
+        <dex dex="/home/elias/AndroidStudioProjects/AluraAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-auth-9.4.0_23d7bedef673a357427f4a524ebf92bf27c6146b/classes.dex" />
+    </item>
+    <item
+        jar="/home/elias/AndroidStudioProjects/AluraAndroid/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="ba47b210d36301e237ccfea860eaada04590f12a">
+        <dex dex="/home/elias/AndroidStudioProjects/AluraAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-analytics-9.4.0_8fad672acf2d7bbe6ca5e1c3c1ef1815ef4f02a7/classes.dex" />
+    </item>
+    <item
+        jar="/home/elias/AndroidStudioProjects/AluraAndroid/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth-common/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="34762013d39dbe6c656050589c44e8b61b9a2c5d">
+        <dex dex="/home/elias/AndroidStudioProjects/AluraAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-auth-common-9.4.0_d7bbffbc80918c99ad463fbcb615e958587864c7/classes.dex" />
+    </item>
+    <item
+        jar="/home/elias/AndroidStudioProjects/AluraAndroid/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="84bf369090a8f7e293817efbd6ccf31ada1be32b">
+        <dex dex="/home/elias/AndroidStudioProjects/AluraAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-database-9.4.0_3419f80fb80f24e78f7c544c4fe67d254d8b3569/classes.dex" />
+    </item>
+    <item
+        jar="/home/elias/AndroidStudioProjects/AluraAndroid/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="8a36d229011e75f0caef408e1adf0d3fd4d94e02">
+        <dex dex="/home/elias/AndroidStudioProjects/AluraAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tasks-9.4.0_17b350fdc7d4fdabe8f2de0a429a2e98e740f0b3/classes.dex" />
+    </item>
+    <item
+        jar="/home/elias/AndroidStudioProjects/AluraAndroid/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-contextmanager/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="72eacac37fc64e95d53abd2a041bf81a952d8615">
+        <dex dex="/home/elias/AndroidStudioProjects/AluraAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-contextmanager-9.4.0_f0e29ebdbfe86cb8c853f935bb5349ee3ac087a3/classes.dex" />
+    </item>
+    <item
+        jar="/home/elias/AndroidStudioProjects/AluraAndroid/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="b1acf13f1b7d8232af78a30833f9a966d1394c84">
+        <dex dex="/home/elias/AndroidStudioProjects/AluraAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-wearable-9.4.0_e03a81914157521ad2eadf932f890c79f785ba30/classes.dex" />
+    </item>
+    <item
+        jar="/home/elias/AndroidStudioProjects/AluraAndroid/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="3b7173b3df4c7029699919414400041f64519e34">
+        <dex dex="/home/elias/AndroidStudioProjects/AluraAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-iid-9.4.0_9ec7369da92f415cfca010d5c9b0d7424c051105/classes.dex" />
+    </item>
+    <item
+        jar="/home/elias/AndroidStudioProjects/AluraAndroid/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="736d8893fb702f128a153c9d87c9c29724d37872">
+        <dex dex="/home/elias/AndroidStudioProjects/AluraAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-appinvite-9.4.0_bd223cda4ce02c680bcc3d3003764cdc945ed249/classes.dex" />
+    </item>
+    <item
+        jar="/home/elias/AndroidStudioProjects/AluraAndroid/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="8197651ce1af4d89b47f4545cc720bc4f8611e7d">
+        <dex dex="/home/elias/AndroidStudioProjects/AluraAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-fitness-9.4.0_8583f08747d3e92fb8ef71de7f4cf41122556b70/classes.dex" />
+    </item>
+    <item
+        jar="/home/elias/AndroidStudioProjects/AluraAndroid/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="954697ee6ea7bdd596babf4f70e8b7a17ca7649e">
+        <dex dex="/home/elias/AndroidStudioProjects/AluraAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-wallet-9.4.0_067190e4aef22fff15f2150eb51181fb44571e4f/classes.dex" />
+    </item>
+    <item
+        jar="/home/elias/AndroidStudioProjects/AluraAndroid/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="6ae8fefa4ac940cb1c005402285396fd1d2108ca">
+        <dex dex="/home/elias/AndroidStudioProjects/AluraAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_f70ed99b57e7c4ba2424acfaace357d04cdd13c4/classes.dex" />
+    </item>
+    <item
+        jar="/home/elias/AndroidStudioProjects/AluraAndroid/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-vision/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="670df81539ab71918d49b186598b7eff08ef6563">
+        <dex dex="/home/elias/AndroidStudioProjects/AluraAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-vision-9.4.0_40245601304a2f0894b25f52c978c4dfbc90d2fa/classes.dex" />
+    </item>
+    <item
+        jar="/home/elias/AndroidStudioProjects/AluraAndroid/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/home/elias/AndroidStudioProjects/AluraAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.4.0_2032c74a948f26934676ec3c8805e52dd36bc1ad/classes.dex" />
+    </item>
+    <item
+        jar="/home/elias/AndroidStudioProjects/AluraAndroid/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-places/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="e35002351f2d415093a9b564652d4b56be6a0593">
+        <dex dex="/home/elias/AndroidStudioProjects/AluraAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-places-9.4.0_f1985754facff831d1c41387a07d664719313c03/classes.dex" />
+    </item>
+    <item
+        jar="/home/elias/AndroidStudioProjects/AluraAndroid/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="ece40b09e9d4d488bc270cf6af5a9af73bc1cfa3">
+        <dex dex="/home/elias/AndroidStudioProjects/AluraAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-gcm-9.4.0_d99a7aa65187c091cf323743e03dbc0e21b1224a/classes.dex" />
+    </item>
+    <item
+        jar="/home/elias/AndroidStudioProjects/AluraAndroid/app/build/intermediates/exploded-aar/com.google.firebase/firebase-crash/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="b9d48baf96c7e187991a9befa833bebd181960a9">
+        <dex dex="/home/elias/AndroidStudioProjects/AluraAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-crash-9.4.0_be0b142a21fcf96a2234fd58d840482ea420a74d/classes.dex" />
+    </item>
+    <item
+        jar="/home/elias/AndroidStudioProjects/AluraAndroid/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="c10df7344e31161852c20bb8143fc37319aa10ec">
+        <dex dex="/home/elias/AndroidStudioProjects/AluraAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-appindexing-9.4.0_8177501a863ec2d16e933d474427c3bb85794050/classes.dex" />
+    </item>
+    <item
+        jar="/home/elias/AndroidStudioProjects/AluraAndroid/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="18b5697c65c4fe5b7381613b8b8ae9ac52e26fa7">
+        <dex dex="/home/elias/AndroidStudioProjects/AluraAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-common-9.4.0_2c71d24f61409fb0dde6404e16892a5a173e0da6/classes.dex" />
+    </item>
+    <item
+        jar="/home/elias/AndroidStudioProjects/AluraAndroid/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="d358b3dd49a7c67844622dcbc9cf4339e13952ce">
+        <dex dex="/home/elias/AndroidStudioProjects/AluraAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-mediarouter-v7-23.0.0_f9d4a76282bb25730e3ff9a026f48d1272abe464/classes.dex" />
+    </item>
+    <item
+        jar="/home/elias/AndroidStudioProjects/AluraAndroid/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/home/elias/AndroidStudioProjects/AluraAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.4.0_a2aa5b4c2b36f66718e0587dfc8b83d5f3cde631/classes.dex" />
+    </item>
+    <item
+        jar="/home/elias/AndroidStudioProjects/AluraAndroid/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="461e4257888c25ec05abcd91e758fe7f4949230a">
+        <dex dex="/home/elias/AndroidStudioProjects/AluraAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-nearby-9.4.0_3385936432ec100bfc28b3814d5f0f405e4bd7f0/classes.dex" />
+    </item>
+    <item
+        jar="/home/elias/AndroidStudioProjects/AluraAndroid/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="e5e8e535d15834e824817bdf5370556f62b4b2a5">
+        <dex dex="/home/elias/AndroidStudioProjects/AluraAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tagmanager-9.4.0_dc04385268e2b4ff7c7aeea237edf8a2908eac5a/classes.dex" />
+    </item>
+    <item
+        jar="/home/elias/AndroidStudioProjects/AluraAndroid/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="4b630471536351be7c3c3100735c75b7ad2cbd84">
+        <dex dex="/home/elias/AndroidStudioProjects/AluraAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-auth-9.4.0_4bed67b65d948ac961d232a1dea38530c05ba02e/classes.dex" />
+    </item>
+    <item
+        jar="/home/elias/AndroidStudioProjects/AluraAndroid/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="0b060160e7daee343f5315b3da91b0ff2d7eed89">
+        <dex dex="/home/elias/AndroidStudioProjects/AluraAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-location-9.4.0_d44ecd0c70dfc46a9374dae6e2ffa2e344b77377/classes.dex" />
+    </item>
+    <item
+        jar="/home/elias/AndroidStudioProjects/AluraAndroid/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth-module/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="6bc41d9d6fd12d2ef23c785a259011001f4a1a5b">
+        <dex dex="/home/elias/AndroidStudioProjects/AluraAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-auth-module-9.4.0_8e042190a864e950576eaad455b53a73e1d6e918/classes.dex" />
+    </item>
+    <item
+        jar="/home/elias/AndroidStudioProjects/AluraAndroid/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth-base/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="58c9f5ee817fdb8b658fd7455fadfb74119f7ee9">
+        <dex dex="/home/elias/AndroidStudioProjects/AluraAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-auth-base-9.4.0_77c2b78db5e178f8c98d6bc90a3f0bb7686147e2/classes.dex" />
+    </item>
+    <item
+        jar="/home/elias/AndroidStudioProjects/AluraAndroid/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/home/elias/AndroidStudioProjects/AluraAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-23.4.0_b02adb34be9a641e5bcacacc01bb63ff2f36b08d/classes.dex" />
+    </item>
+    <item
+        jar="/home/elias/AndroidStudioProjects/AluraAndroid/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="8ce5e7a4a146dddd1d9e66b09c714a6c149916d8">
+        <dex dex="/home/elias/AndroidStudioProjects/AluraAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-drive-9.4.0_a31b2b76efebd41c263b3289c4c1894af24e692d/classes.dex" />
+    </item>
+    <item
+        jar="/home/elias/AndroidStudioProjects/AluraAndroid/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="a2d567e702e0ed13fc85c8606c130ff7954a7fb1">
+        <dex dex="/home/elias/AndroidStudioProjects/AluraAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_492f235d1600485fe901682f77fa6accda381de7/classes.dex" />
+    </item>
+    <item
+        jar="/home/elias/AndroidStudioProjects/AluraAndroid/app/build/intermediates/exploded-aar/com.google.firebase/firebase-config/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="dab6944860c986980dcc6002a5ca2f127b587317">
+        <dex dex="/home/elias/AndroidStudioProjects/AluraAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-config-9.4.0_ca7e0ba3f144d2c5faa8e322653556925bc512fd/classes.dex" />
+    </item>
+    <item
+        jar="/home/elias/AndroidStudioProjects/AluraAndroid/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/jars/libs/internal_impl-23.0.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="03d38bb042efe3e5ce27ba66b729a9523c36d8fe">
+        <dex dex="/home/elias/AndroidStudioProjects/AluraAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.0.0_7791c1f3db381ed469f47a442ea8eed9b9ebc770/classes.dex" />
+    </item>
+    <item
+        jar="/home/elias/AndroidStudioProjects/AluraAndroid/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="e454c414a069241ee08444d187f2dd3a702596b5">
+        <dex dex="/home/elias/AndroidStudioProjects/AluraAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-maps-9.4.0_3255361e8d39a6ddcc67dda76e6a831cdebeb290/classes.dex" />
+    </item>
+    <item
+        jar="/home/elias/AndroidStudioProjects/AluraAndroid/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics-impl/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="0ad33eb600f3d80bdff5ce355c90d5533ade652a">
+        <dex dex="/home/elias/AndroidStudioProjects/AluraAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-analytics-impl-9.4.0_3a3827160a7dd32a59a999701a242c17b75aa648/classes.dex" />
+    </item>
+    <item
+        jar="/home/elias/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.0/support-annotations-24.2.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="6be858a75633b1f0a2d24cad740db57775cb6871">
+        <dex dex="/home/elias/AndroidStudioProjects/AluraAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.2.0_ada9a40d98f42fc29346c2f38e8d36404b3280d5/classes.dex" />
+    </item>
+    <item
+        jar="/home/elias/AndroidStudioProjects/AluraAndroid/app/build/intermediates/exploded-aar/com.google.firebase/firebase-storage-common/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="c8f5d56f8f8a287c95e02c542baade138a378048">
+        <dex dex="/home/elias/AndroidStudioProjects/AluraAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-storage-common-9.4.0_78bf73d5e1c676aaff53cddc76977770e145a081/classes.dex" />
+    </item>
+    <item
+        jar="/home/elias/AndroidStudioProjects/AluraAndroid/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="3dee4ce5844d39d843d503fb8fe04e51e5bfffac">
+        <dex dex="/home/elias/AndroidStudioProjects/AluraAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-base-9.4.0_d89c27b1a3d7ba8e3be7954b25670d5e032d741e/classes.dex" />
+    </item>
+    <item
+        jar="/home/elias/AndroidStudioProjects/AluraAndroid/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/home/elias/AndroidStudioProjects/AluraAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.4.0_878091c8e5b0af6e6b866d5c617d04093215a072/classes.dex" />
+    </item>
+    <item
+        jar="/home/elias/AndroidStudioProjects/AluraAndroid/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gass/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="b15f898c9047f9d612a63000126b485dd024eaac">
+        <dex dex="/home/elias/AndroidStudioProjects/AluraAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-gass-9.4.0_0ddc6ab72c2b9578a26aa1726f2a608be5feec01/classes.dex" />
+    </item>
+    <item
+        jar="/home/elias/AndroidStudioProjects/AluraAndroid/app/build/intermediates/exploded-aar/com.google.firebase/firebase-messaging/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="4b6d9b70f93bbeb872d0948bc064ae3f3f2bcbac">
+        <dex dex="/home/elias/AndroidStudioProjects/AluraAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-messaging-9.4.0_d42ec6b7555f51b71abbee7944ddfd1f82cbfc5f/classes.dex" />
+    </item>
+    <item
+        jar="/home/elias/AndroidStudioProjects/AluraAndroid/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="a432629397351d3ec7f27a23d258b229b81af08f">
+        <dex dex="/home/elias/AndroidStudioProjects/AluraAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-cast-9.4.0_d19848c345d447b45ab50526d90d13d899ff1bc0/classes.dex" />
+    </item>
+    <item
+        jar="/home/elias/AndroidStudioProjects/AluraAndroid/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads-lite/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="147edbec6bcea71fd675ecc63cae3319637ec2b4">
+        <dex dex="/home/elias/AndroidStudioProjects/AluraAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-ads-lite-9.4.0_c57526d837eca57ac81109e85c89cd7fd1cc4791/classes.dex" />
+    </item>
+    <item
+        jar="/home/elias/AndroidStudioProjects/AluraAndroid/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/home/elias/AndroidStudioProjects/AluraAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-23.4.0_364ff8fd7e8686947c1471034f1974bea21332fc/classes.dex" />
+    </item>
+
+</items>
