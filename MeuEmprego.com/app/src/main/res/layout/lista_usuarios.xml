@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingBottom="10dp"
+        android:paddingTop="10dp"
+        android:text="Usuário"
+        android:textAlignment="center"
+        android:textSize="18sp" />
+
+    <TextView
+        android:id="@+id/lista_usuario_nome"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Nome"
+        android:textSize="18sp" />
+
+    <TextView
+        android:id="@+id/lista_usuario_email"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Email"
+        android:textSize="18sp" />
+
+    <TextView
+        android:id="@+id/lista_usuario_data_cadastro"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Data do cotastro"
+        android:textSize="18sp" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingBottom="10dp"
+        android:paddingTop="10dp"
+        android:text="Endereco"
+        android:textAlignment="center"
+        android:textSize="18sp" />
+
+    <TextView
+        android:id="@+id/lista_usuario_endereco_cep"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Cep"
+        android:textSize="18sp" />
+
+    <TextView
+        android:id="@+id/lista_usuario_endereco_logradouro"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Logradouro"
+        android:textSize="18sp" />
+
+    <TextView
+        android:id="@+id/lista_usuario_endereco_bairro"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Bairro"
+        android:textSize="18sp" />
+
+    <TextView
+        android:id="@+id/lista_usuario_endereco_numero"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Número"
+        android:textSize="18sp" />
+
+    <TextView
+        android:id="@+id/lista_usuario_endereco_complemento"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Complemento"
+        android:textSize="18sp" />
+
+    <TextView
+        android:id="@+id/lista_usuario_endereco_cidade"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Cidade"
+        android:textSize="18sp" />
+
+
+    <TextView
+        android:id="@+id/lista_usuario_endereco_estado"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Estado"
+        android:textSize="18sp" />
+
+</LinearLayout>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/elias/AndroidStudioProjects/projeto-final/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="cb397727f02fb9b839d058ead283c91346a98c53">
+        <dex dex="/home/elias/AndroidStudioProjects/projeto-final/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_37ca5e812d99bd52f49d049fcec86a7a6d62cd99/classes.dex" />
+    </item>
+    <item
+        jar="/home/elias/AndroidStudioProjects/projeto-final/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="/home/elias/AndroidStudioProjects/projeto-final/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.1.1_aa77510d03c7dfa75c5c1884e64e716366e2e1f7/classes.dex" />
+    </item>
+    <item
+        jar="/home/elias/AndroidStudioProjects/projeto-final/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="/home/elias/AndroidStudioProjects/projeto-final/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.1.1_19d9780b6b1bdd746f73d43f244abdc10ae77f81/classes.dex" />
+    </item>
+    <item
+        jar="/home/elias/AndroidStudioProjects/projeto-final/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/libs/internal_impl-23.1.1.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="/home/elias/AndroidStudioProjects/projeto-final/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.1.1_9fb6cd99ba6082cb083d7db9eed4d83382dfdae9/classes.dex" />
+    </item>
+    <item
+        jar="/home/elias/AndroidStudioProjects/projeto-final/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="d62a2275498687eab4c91e5732f66d62d72f58fc">
+        <dex dex="/home/elias/AndroidStudioProjects/projeto-final/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_2d7d7b5bfc9ac33534e19ff13c8699fff49e60cc/classes.dex" />
+    </item>
+    <item
+        jar="/home/elias/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.1.1/support-annotations-23.1.1.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="/home/elias/AndroidStudioProjects/projeto-final/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.1.1_5e04d5fd0074cd5afca22e21c61484eb14bbe085/classes.dex" />
+    </item>
+
+</items>
